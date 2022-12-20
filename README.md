@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 A detailed description of data and methods are included in the article. A summary of the workflow is described in the next figure. 
 
-![CSV example](https://github.com/lizanafj/ensemble-bias_correction/blob/master/resources/bias_correction_workflow.jpg)
+![CSV example](https://github.com/lizanafj/ensemble-bias_correction/blob/main/resources/bias_correction_workflow.jpg )
 
 
 
