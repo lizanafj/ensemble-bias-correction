@@ -9,7 +9,7 @@ Bias correction method using quantile mapping. The aproach uses a cumulative dis
 
 Inputs: 
 
-	-(A) Model: ensamble members of air temperature (divided into batches)
+	-(A) Model: ensamble members of air temperature (divided into batches) generated using the HadAM4 from the UK Met Office Hadley Centre.
 
 	-(B) Observed: ERA5 (with the same grid/resolution)
 
