@@ -1,6 +1,6 @@
 # Ensemble bias correction using quantile mapping 
 
-Bias correction method using quantile mapping. The aproach uses a cumulative distribution function-transform method of the entire ensemble to ensure the preservation of the internal variability of members. 
+Bias correction method using quantile mapping. The approach uses a cumulative distribution function-transform method of the entire ensemble to ensure the preservation of the internal variability of members. 
 
   **Article reference - under review**
 
